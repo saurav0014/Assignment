@@ -82,7 +82,7 @@ body {
     width: 100vw;
     height: 100vh;
 }
-button:hover{
+button:hover { 
     background-color:orange;
     cursor: pointer;
     transition:all 3s ease-in ;
